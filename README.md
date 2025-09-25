@@ -1,5 +1,10 @@
 # SocialApp
 
+<img width="606" height="260" alt="Picture5" src="https://github.com/user-attachments/assets/db40a1b6-51cf-4ae1-903c-1e2e43711f00" />
+<img width="606" height="232" alt="Picture4" src="https://github.com/user-attachments/assets/aaf31e1d-0dcc-4458-a368-e47c316d92a2" />
+<img width="608" height="260" alt="Picture3" src="https://github.com/user-attachments/assets/2fb2a02c-00dd-4330-b06e-d2a5623a0304" />
+<img width="606" height="194" alt="Picture2" src="https://github.com/user-attachments/assets/5cbcbb8d-b96d-475e-b8ef-3dc3b15b18c1" />
+<img width="794" height="421" alt="Picture1" src="https://github.com/user-attachments/assets/fa7d3dd4-d815-4254-8fc5-d796a5fa7de4" />
 
 Commercial Credit Management Application (Web API + Angular)
 
